@@ -146,7 +146,7 @@ namespace ImportFromVisio
                 FullName = inputObject.FullName,
                 FullUncName = inputObject.FullUncName,
                 Id = inputObject.Id,
-                IsAct = inputObject.IsAct,
+                //IsAct = inputObject.IsAct,
                 IsLib = inputObject.IsLib,
                 Locked = inputObject.Locked,
                 Name = inputObject.Name,
