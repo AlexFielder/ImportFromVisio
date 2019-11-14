@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ImportFromVisio.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ImportFromVisio_SecSvc_SecurityService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://bas069/AutodeskDM/Services/SecurityService.asmx</Value>
+    </Setting>
+    <Setting Name="ImportFromVisio_DocExSvc_DocumentServiceExtensions" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://bas069/AutodeskDM/Services/DocumentServiceExtensions.asmx</Value>
+    </Setting>
+    <Setting Name="ImportFromVisio_DocSvc_DocumentService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://bas069/autodeskdm/services/documentservice.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

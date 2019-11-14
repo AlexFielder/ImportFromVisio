@@ -1,0 +1,416 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="CB7A70BB-ADF6-413A-98C1-630B6D3BF3B8/d:Web References/d:SecSvc/f:Reference.cs" caret="567" fromTop="14" />
+      <File id="CB7A70BB-ADF6-413A-98C1-630B6D3BF3B8/f:LoginInfo.cs" caret="0" fromTop="0" />
+      <File id="CB7A70BB-ADF6-413A-98C1-630B6D3BF3B8/f:LoginDialog.cs" caret="0" fromTop="0" />
+      <File id="CB7A70BB-ADF6-413A-98C1-630B6D3BF3B8/f:ServiceManager.cs" caret="564" fromTop="0" />
+      <File id="CB7A70BB-ADF6-413A-98C1-630B6D3BF3B8/f:Program.cs" caret="1110" fromTop="22" />
+      <File id="CB7A70BB-ADF6-413A-98C1-630B6D3BF3B8/f:Transition.cs" caret="915" fromTop="25" />
+      <File id="CB7A70BB-ADF6-413A-98C1-630B6D3BF3B8/f:States.cs" caret="1262" fromTop="37" />
+      <File id="CB7A70BB-ADF6-413A-98C1-630B6D3BF3B8/f:MainForm.cs" caret="6814" fromTop="22" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="CB7A70BB-ADF6-413A-98C1-630B6D3BF3B8/f:MainForm.cs" caret="2683" fromTop="1" />
+      <File id="CB7A70BB-ADF6-413A-98C1-630B6D3BF3B8/f:MainForm.cs" caret="13195" fromTop="29" />
+      <File id="CB7A70BB-ADF6-413A-98C1-630B6D3BF3B8/f:MainForm.cs" caret="9609" fromTop="15" />
+      <File id="CB7A70BB-ADF6-413A-98C1-630B6D3BF3B8/f:MainForm.cs" caret="8282" fromTop="12" />
+      <File id="CB7A70BB-ADF6-413A-98C1-630B6D3BF3B8/f:MainForm.cs" caret="11368" fromTop="21" />
+      <File id="CB7A70BB-ADF6-413A-98C1-630B6D3BF3B8/f:MainForm.cs" caret="11822" fromTop="30" />
+      <File id="CB7A70BB-ADF6-413A-98C1-630B6D3BF3B8/f:MainForm.cs" caret="12098" fromTop="34" />
+      <File id="CB7A70BB-ADF6-413A-98C1-630B6D3BF3B8/f:MainForm.cs" caret="15910" fromTop="33" />
+      <File id="CB7A70BB-ADF6-413A-98C1-630B6D3BF3B8/f:MainForm.cs" caret="31092" fromTop="30" />
+      <File id="CB7A70BB-ADF6-413A-98C1-630B6D3BF3B8/f:MainForm.cs" caret="97" fromTop="2" />
+      <File id="CB7A70BB-ADF6-413A-98C1-630B6D3BF3B8/f:States.cs" caret="1162" fromTop="34" />
+      <File id="CB7A70BB-ADF6-413A-98C1-630B6D3BF3B8/f:States.cs" caret="692" fromTop="29" />
+      <File id="CB7A70BB-ADF6-413A-98C1-630B6D3BF3B8/f:MainForm.cs" caret="6601" fromTop="7" />
+      <File id="CB7A70BB-ADF6-413A-98C1-630B6D3BF3B8/f:MainForm.cs" caret="6339" fromTop="2" />
+      <File id="CB7A70BB-ADF6-413A-98C1-630B6D3BF3B8/f:MainForm.cs" caret="7792" fromTop="15" />
+      <File id="CB7A70BB-ADF6-413A-98C1-630B6D3BF3B8/f:MainForm.cs" caret="3133" fromTop="9" />
+      <File id="CB7A70BB-ADF6-413A-98C1-630B6D3BF3B8/f:MainForm.cs" caret="29720" fromTop="12" />
+      <File id="CB7A70BB-ADF6-413A-98C1-630B6D3BF3B8/f:MainForm.cs" caret="29772" fromTop="15" />
+      <File id="CB7A70BB-ADF6-413A-98C1-630B6D3BF3B8/f:MainForm.cs" caret="30111" fromTop="19" />
+      <File id="CB7A70BB-ADF6-413A-98C1-630B6D3BF3B8/f:MainForm.cs" caret="20166" fromTop="13" />
+      <File id="CB7A70BB-ADF6-413A-98C1-630B6D3BF3B8/f:MainForm.cs" caret="17923" fromTop="29" />
+      <File id="CB7A70BB-ADF6-413A-98C1-630B6D3BF3B8/f:MainForm.cs" caret="4052" fromTop="21" />
+      <File id="CB7A70BB-ADF6-413A-98C1-630B6D3BF3B8/f:MainForm.cs" caret="1974" fromTop="35" />
+      <File id="CB7A70BB-ADF6-413A-98C1-630B6D3BF3B8/f:MainForm.cs" caret="7689" fromTop="10" />
+      <File id="CB7A70BB-ADF6-413A-98C1-630B6D3BF3B8/f:MainForm.cs" caret="7555" fromTop="5" />
+      <File id="CB7A70BB-ADF6-413A-98C1-630B6D3BF3B8/f:MainForm.cs" caret="5454" fromTop="18" />
+      <File id="CB7A70BB-ADF6-413A-98C1-630B6D3BF3B8/f:MainForm.cs" caret="4347" fromTop="24" />
+      <File id="CB7A70BB-ADF6-413A-98C1-630B6D3BF3B8/f:MainForm.cs" caret="17311" fromTop="41" />
+      <File id="CB7A70BB-ADF6-413A-98C1-630B6D3BF3B8/f:MainForm.cs" caret="17469" fromTop="47" />
+      <File id="CB7A70BB-ADF6-413A-98C1-630B6D3BF3B8/f:MainForm.cs" caret="6813" fromTop="22" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="LfCycDef`0" priority="0" />
+      <Item value="docExSvc" priority="2" />
+      <Item value="if" priority="38" />
+      <Item value="shape" priority="32" />
+      <Item value="foreach" priority="9" />
+      <Item value="Visio" priority="7" />
+      <Item value="Shape`0" priority="0" />
+      <Item value="public" priority="26" />
+      <Item value="string" priority="47" />
+      <Item value="bool" priority="4" />
+      <Item value="get" priority="0" />
+      <Item value="set" priority="0" />
+      <Item value="private" priority="27" />
+      <Item value="void" priority="0" />
+      <Item value="m_visioFileTextBox" priority="1" />
+      <Item value="m_lcTrans" priority="1" />
+      <Item value="m_lcStates" priority="0" />
+      <Item value="new" priority="45" />
+      <Item value="List" priority="13" />
+      <Item value="State`0" priority="4" />
+      <Item value="long" priority="14" />
+      <Item value="using" priority="2" />
+      <Item value="Autodesk" priority="1" />
+      <Item value="Connectivity" priority="1" />
+      <Item value="JobSyncPropEnum`0" priority="1" />
+      <Item value="StringArray`0" priority="0" />
+      <Item value="Transition`0" priority="4" />
+      <Item value="m_lcState" priority="0" />
+      <Item value="static" priority="2" />
+      <Item value="List&lt;State&gt;" priority="3" />
+      <Item value="StatesList" priority="0" />
+      <Item value="TransitionsList" priority="0" />
+      <Item value="TrackBar`0" priority="1" />
+      <Item value="null" priority="12" />
+      <Item value="_State" priority="44" />
+      <Item value="fExistsLocally" priority="1" />
+      <Item value="true" priority="10" />
+      <Item value="false" priority="9" />
+      <Item value="RestrictPurgeOption`0" priority="0" />
+      <Item value="DataRecordset`0" priority="0" />
+      <Item value="int" priority="3" />
+      <Item value="_statesList" priority="8" />
+      <Item value="intCount" priority="1" />
+      <Item value="doc" priority="0" />
+      <Item value="vsoDataRecordset" priority="1" />
+      <Item value="isLinked" priority="0" />
+      <Item value="const" priority="16" />
+      <Item value="_AccessControlEntryPermissions" priority="0" />
+      <Item value="VisUnitCodes`0" priority="4" />
+      <Item value="SchemeTypeEnum`0" priority="0" />
+      <Item value="AccessControlEntryUsers" priority="1" />
+      <Item value="short" priority="2" />
+      <Item value="visio" priority="0" />
+      <Item value="IsDefault" priority="1" />
+      <Item value="IsReleasedState" priority="1" />
+      <Item value="else" priority="16" />
+      <Item value="All" priority="0" />
+      <Item value="FirstAndLast" priority="0" />
+      <Item value="Description" priority="1" />
+      <Item value="DisplayName" priority="0" />
+      <Item value="UseStateBasedSecurity" priority="0" />
+      <Item value="LoadVisioFileAlex`0" priority="0" />
+      <Item value="customPropertyCell" priority="0" />
+      <Item value="return" priority="7" />
+      <Item value="ReadANamedCustomProperty`0" priority="11" />
+      <Item value="visSelModeOnlySub" priority="0" />
+      <Item value="object" priority="0" />
+      <Item value="AccessControlEntryPermissions" priority="0" />
+      <Item value="Comments" priority="1" />
+      <Item value="MessageBox`0" priority="0" />
+      <Item value="Connectormap" priority="0" />
+      <Item value="containskey`0" priority="0" />
+      <Item value="fromname" priority="2" />
+      <Item value="Select`0" priority="0" />
+      <Item value="from" priority="4" />
+      <Item value="System" priority="0" />
+      <Item value="Data" priority="0" />
+      <Item value="Linq" priority="0" />
+      <Item value="var" priority="29" />
+      <Item value="where" priority="2" />
+      <Item value="state" priority="18" />
+      <Item value="select" priority="3" />
+      <Item value="Statename" priority="0" />
+      <Item value="result" priority="4" />
+      <Item value="orderby" priority="0" />
+      <Item value="InvalidAsynchronousStateException`0" priority="0" />
+      <Item value="m_defaultStateComboBox" priority="2" />
+      <Item value="shapetextlist" priority="0" />
+      <Item value="_shapetextlist" priority="1" />
+      <Item value="_transitionsList" priority="3" />
+      <Item value="try" priority="0" />
+      <Item value="_state" priority="1" />
+      <Item value="lcStateName" priority="1" />
+      <Item value="in" priority="8" />
+      <Item value="Comment" priority="1" />
+      <Item value="cellName" priority="0" />
+      <Item value="lcDef" priority="0" />
+      <Item value="isDefault" priority="0" />
+      <Item value="fromId" priority="0" />
+      <Item value="toId" priority="0" />
+      <Item value="trans" priority="5" />
+      <Item value="transition" priority="10" />
+      <Item value="tr" priority="1" />
+      <Item value="PropDefCond`0" priority="0" />
+      <Item value="PropDefCond" priority="0" />
+      <Item value="_Trans" priority="24" />
+      <Item value="totext" priority="1" />
+      <Item value="_allowedUserIds" priority="0" />
+      <Item value="Convert`0" priority="9" />
+      <Item value="ReadANamedCustomProp`0" priority="0" />
+      <Item value="_deniedUserIds" priority="0" />
+      <Item value="SyncPropOption" priority="0" />
+      <Item value="switch" priority="1" />
+      <Item value="case" priority="5" />
+      <Item value="break" priority="6" />
+      <Item value="None" priority="1" />
+      <Item value="SyncPropAndUpdateView" priority="0" />
+      <Item value="SyncPropOnly" priority="0" />
+      <Item value="EnforceChildStateSync" priority="0" />
+      <Item value="UseTransitionBasedSecurity" priority="0" />
+      <Item value="BumpRevision" priority="0" />
+      <Item value="m_stateObjMap" priority="0" />
+      <Item value="CanSelect" priority="0" />
+      <Item value="BumpPrimary" priority="0" />
+      <Item value="BumpSecondary" priority="0" />
+      <Item value="BumpTertiary" priority="0" />
+      <Item value="returnval" priority="1" />
+      <Item value="connect" priority="0" />
+      <Item value="ACE`0" priority="1" />
+      <Item value="newACEs" priority="0" />
+      <Item value="_ACE`0" priority="1" />
+      <Item value="UserGrpId" priority="0" />
+      <Item value="_Permissions" priority="0" />
+      <Item value="PermisArray" priority="0" />
+      <Item value="ACEPermissions" priority="0" />
+      <Item value="AccessPermis`0" priority="1" />
+      <Item value="AccessPermis" priority="7" />
+      <Item value="pa" priority="5" />
+      <Item value="paa" priority="2" />
+      <Item value="newace" priority="2" />
+      <Item value="adminService" priority="0" />
+      <Item value="AdminService" priority="1" />
+      <Item value="SecSvc" priority="0" />
+      <Item value="User`0" priority="0" />
+      <Item value="WebServices" priority="0" />
+      <Item value="AdminService`0" priority="0" />
+      <Item value="adminservice" priority="0" />
+      <Item value="user" priority="6" />
+      <Item value="ACE" priority="2" />
+      <Item value="default" priority="0" />
+      <Item value="aceA" priority="1" />
+      <Item value="userAId" priority="0" />
+      <Item value="readPermis" priority="1" />
+      <Item value="aceList" priority="1" />
+      <Item value="tmpAllowedUsers" priority="3" />
+      <Item value="Length" priority="1" />
+      <Item value="tmpallowedusers" priority="2" />
+      <Item value="deniedusers" priority="0" />
+      <Item value="tmpDeniedUsers" priority="2" />
+      <Item value="tmpdeniedusers" priority="0" />
+      <Item value="i" priority="5" />
+      <Item value="tmpACEUsers" priority="2" />
+      <Item value="tmpACEusers" priority="0" />
+      <Item value="tmpACEPermissions" priority="6" />
+      <Item value="permission" priority="0" />
+      <Item value="throw" priority="1" />
+      <Item value="Exception" priority="1" />
+      <Item value="State" priority="0" />
+      <Item value="info" priority="2" />
+      <Item value="Transition" priority="0" />
+      <Item value="String`0" priority="1" />
+      <Item value="Strings" priority="0" />
+      <Item value="UCase`0" priority="0" />
+      <Item value="Microsoft" priority="0" />
+      <Item value="VisualBasic" priority="0" />
+      <Item value="str" priority="0" />
+      <Item value="List&lt;int&gt;" priority="0" />
+      <Item value="AllowedUserIds" priority="0" />
+      <Item value="tmplonglist" priority="0" />
+      <Item value="tmpdeniedlist" priority="1" />
+      <Item value="j" priority="0" />
+      <Item value="tmpallowedlist" priority="0" />
+      <Item value="this" priority="3" />
+      <Item value="reverseFromStateName" priority="1" />
+      <Item value="reverseToStateName" priority="0" />
+      <Item value="fromtext" priority="1" />
+      <Item value="List&lt;long&gt;" priority="1" />
+      <Item value="comments" priority="6" />
+      <Item value="Concat`1" priority="0" />
+      <Item value="comment" priority="0" />
+      <Item value="tmpcomments" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ImportFromVisio.DocExSvc.RestrictPurgeOption">
+      <Item value="All" priority="0" />
+      <Item value="FirstAndLast" priority="0" />
+      <Item value="Last" priority="0" />
+      <Item value="None" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ImportFromVisio.DocExSvc.JobSyncPropEnum">
+      <Item value="None" priority="1" />
+      <Item value="SyncPropAndUpdateView" priority="1" />
+      <Item value="SyncPropOnly" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ImportFromVisio.DocExSvc.BumpRevisionEnum">
+      <Item value="BumpPrimary" priority="2" />
+      <Item value="None" priority="1" />
+      <Item value="BumpSecondary" priority="0" />
+      <Item value="BumpTertiary" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Office.Interop.Visio.Shape">
+      <Item value="Data1" priority="0" />
+      <Item value="GetCustomPropertiesLinkedToData`0" priority="1" />
+      <Item value="CellExists" priority="1" />
+      <Item value="Text" priority="4" />
+      <Item value="IsCustomPropertyLinked`0" priority="0" />
+      <Item value="get_CellExists`0" priority="0" />
+      <Item value="get_Cells`0" priority="3" />
+      <Item value="FillStyle" priority="0" />
+      <Item value="FlipHorizontal`0" priority="0" />
+      <Item value="CreateSelection`0" priority="0" />
+      <Item value="QueryCancelSelectionDelete" priority="0" />
+      <Item value="Connects" priority="0" />
+      <Item value="Name" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Contains`0" priority="4" />
+      <Item value="ToString`0" priority="2" />
+      <Item value="StartsWith`0" priority="2" />
+      <Item value="Split`0" priority="3" />
+      <Item value="EndsWith`0" priority="0" />
+      <Item value="ToUpper`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ImportFromVisio.State">
+      <Item value="AccessControlEntryPermissions" priority="3" />
+      <Item value="AccessControlEntryUserGroups" priority="8" />
+      <Item value="Comments" priority="7" />
+      <Item value="IsDefault" priority="4" />
+      <Item value="IsReleasedState" priority="6" />
+      <Item value="RestrictPurgeOption" priority="4" />
+      <Item value="StateDescription" priority="3" />
+      <Item value="Statename" priority="15" />
+      <Item value="UseStateBasedSecurity" priority="3" />
+      <Item value="ToString`0" priority="0" />
+      <Item value="AccessControlEntry" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="10" />
+      <Item value="ToArray`0" priority="1" />
+      <Item value="Contains`0" priority="0" />
+      <Item value="Count" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Office.Interop.Visio.Document">
+      <Item value="DataRecordsets" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Office.Interop.Visio.DataRecordsets">
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Office.Interop.Visio.DataRecordset">
+      <Item value="ID" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Office.Interop.Visio.Cell">
+      <Item value="get_ResultStr`0" priority="5" />
+      <Item value="ToString`0" priority="0" />
+      <Item value="Shape" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Office.Interop.Visio.VisUnitCodes">
+      <Item value="visNoCast" priority="3" />
+      <Item value="visNumber" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Office.Interop.Visio.VisSelectionTypes">
+      <Item value="visSelTypeSingle" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Office.Interop.Visio.Connect">
+      <Item value="FromCell" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="Count`1" priority="0" />
+      <Item value="FirstOrDefault`1" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ComboBox">
+      <Item value="Items" priority="1" />
+      <Item value="SelectedIndex" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ComboBox+ObjectCollection">
+      <Item value="Clear`0" priority="0" />
+      <Item value="AddRange`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ImportFromVisio.DocExSvc.DocumentServiceExtensions">
+      <Item value="AddLifeCycleState`0" priority="0" />
+      <Item value="AddLifeCycleStateTransition`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ImportFromVisio.DocExSvc.LfCycDef">
+      <Item value="Id" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ImportFromVisio.Transition">
+      <Item value="FromStateName" priority="3" />
+      <Item value="EnforceChildStateSync" priority="1" />
+      <Item value="BumpRevisionEnum" priority="1" />
+      <Item value="UseTransitionStateSecurity" priority="0" />
+      <Item value="AllowUserIds" priority="3" />
+      <Item value="FromStateId" priority="0" />
+      <Item value="ToStateName" priority="2" />
+      <Item value="Equals`0" priority="0" />
+      <Item value="DeniedUserIds" priority="4" />
+      <Item value="JobSyncPropEnum" priority="0" />
+      <Item value="SyncPropOption" priority="1" />
+      <Item value="UseTransitionBasedSecurity" priority="0" />
+      <Item value="BumpRevision" priority="4" />
+      <Item value="AllowedUserIds" priority="1" />
+      <Item value="ReverseToStateName" priority="5" />
+      <Item value="ReverseFromStateName" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ImportFromVisio.Pair">
+      <Item value="FromStateName" priority="1" />
+      <Item value="ToStateName" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ImportFromVisio.DocExSvc.LfCycState">
+      <Item value="Name" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToInt64`0" priority="12" />
+      <Item value="ToString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ImportFromVisio.DocExSvc.AccessPermis">
+      <Item value="Id" priority="2" />
+      <Item value="Val" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ImportFromVisio.DocExSvc.ACE">
+      <Item value="UserGrpId" priority="1" />
+      <Item value="PermisArray" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Compare`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Autodesk.Connectivity.WebServices.User">
+      <Item value="Name" priority="0" />
+      <Item value="Id" priority="0" />
+      <Item value="IsSys" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ImportFromVisio.ConnectorInfo">
+      <Item value="ShapeNames" priority="2" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
