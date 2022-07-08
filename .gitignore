@@ -5,3 +5,6 @@
 *.exe
 /nppbackup
 *.bak
+/bin/Debug
+/bin/Obj
+*.cache
